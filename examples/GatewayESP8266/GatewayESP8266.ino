@@ -64,8 +64,8 @@
 
 #define MY_GATEWAY_ESP8266
 
-#define MY_WIFI_SSID "MySSID"
-#define MY_WIFI_PASSWORD "MyVerySecretPassword"
+#define MY_WIFI_SSID "TP-Link-00EC"
+#define MY_WIFI_PASSWORD "50864324"
 
 // Enable UDP communication
 //#define MY_USE_UDP  // If using UDP you need to set MY_CONTROLLER_IP_ADDRESS or MY_CONTROLLER_URL_ADDRESS below
